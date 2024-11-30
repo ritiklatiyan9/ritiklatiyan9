@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and Latest Web Developement Skills**
 
-- 👯 I’m looking to collaborate on [Game Website](tichgame.tech)
+- 👯 I’m looking to collaborate on [Game Website](https://ticgame.tech/)
 
 - 👨‍💻 All of my projects are available at [ritiklatiyan.vercel.app](https://ritiklatiyan.vercel.app/)
 
