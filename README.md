@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Game Website](tichgame.tech)
 
-- 👨‍💻 All of my projects are available at [ritiklatiyan.vercel.app](ritiklatiyan.vercel.app)
+- 👨‍💻 All of my projects are available at [ritiklatiyan.vercel.app]([ritiklatiyan.vercel.app](https://ritiklatiyan.vercel.app/))
 
 - 💬 Ask me about **MERN Stack**
 
