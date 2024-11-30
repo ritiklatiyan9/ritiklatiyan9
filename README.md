@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on **Online Gaming Website**
+- 🔭 I’m currently working on **Mobile Developement**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and Latest Web Developement Skills**
 
-- 👯 I’m looking to collaborate on [E-Medicozzz](medicozzz.netlify.app)
+- 👯 I’m looking to collaborate on [Game Website](tichgame.tech)
 
-- 👨‍💻 All of my projects are available at [ritiklatiyan.me](ritiklatiyan.me)
+- 👨‍💻 All of my projects are available at [ritiklatiyan.me](ritiklatiyan.vercel.app)
 
 - 💬 Ask me about **MERN Stack**
 
